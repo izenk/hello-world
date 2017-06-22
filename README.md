@@ -20,7 +20,7 @@ The application is divided into 4 parts:
 # Task results
 
 ![web](skywind_docker_1.png)
-![console](skywind_docker_1.png)
+![console](skywind_docker_2.png)
 
 
 # Hello World running on Triton
