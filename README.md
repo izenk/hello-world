@@ -17,6 +17,11 @@ The application is divided into 4 parts:
 
 ![application configuration diagram](application-diagram.jpg)
 
+# Task results
+
+![web](skywind_docker_1.png)
+![console](skywind_docker_1.png)
+
 
 # Hello World running on Triton
 
